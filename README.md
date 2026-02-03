@@ -55,7 +55,7 @@ postify/
 🚀 Getting Started (Run Locally)
 
 1️⃣ Clone the repository
-git clone https://github.com/your-username/postify.git
+git clone https://github.com/Kaushik1014/postify.git
 
 2️⃣ Move into the project folder
 cd postify
