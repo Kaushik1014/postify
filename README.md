@@ -37,10 +37,15 @@ This project is ideal for learning **Node.js**, **Express**, REST APIs, templati
 postify/
 │
 ├── public/ # Static files (CSS, images)
+
 ├── views/ # EJS templates
+
 ├── routes/ # Application routes
+
 ├── index.js # Main server file
+
 ├── package.json # Dependencies and scripts
+
 └── README.md
 
 ---
@@ -91,4 +96,5 @@ Fork the repository and submit a pull request if you’d like to improve this pr
 👨‍💻 Author
 
 Kaushik Gautam
+
 Built with ❤️ for learning and practice
