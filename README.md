@@ -85,6 +85,7 @@ http://localhost:3000/posts
 🤝 Contributing
 
 Contributions are welcome.
+
 Fork the repository and submit a pull request if you’d like to improve this project.
 
 👨‍💻 Author
