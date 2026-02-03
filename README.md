@@ -35,7 +35,9 @@ This project is ideal for learning **Node.js**, **Express**, REST APIs, templati
 📁 Project Structure
 
 postify/
+
 │
+
 ├── public/ # Static files (CSS, images)
 
 ├── views/ # EJS templates
