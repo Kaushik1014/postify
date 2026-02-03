@@ -30,7 +30,6 @@ This project is ideal for learning **Node.js**, **Express**, REST APIs, templati
 - **Database:** In-memory data / JSON
 - **Deployment:** Render
 - **Version Control:** Git & GitHub
-- 
 ---
 
 📁 Project Structure
