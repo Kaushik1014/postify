@@ -75,8 +75,11 @@ http://localhost:3000/posts
 📌 Usage
 
 1)Open the application
+
 2)Click New Post to add content
+
 3)Use Edit to update a post
+
 4)Use Delete to remove a post
 
 🤝 Contributing
