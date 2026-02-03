@@ -39,7 +39,7 @@ postify/
 ├── public/ # Static files (CSS, images)
 ├── views/ # EJS templates
 ├── routes/ # Application routes
-├── app.js # Main server file
+├── index.js # Main server file
 ├── package.json # Dependencies and scripts
 └── README.md
 
