@@ -48,7 +48,6 @@ postify/
 🚀 Getting Started (Run Locally)
 
 1️⃣ Clone the repository
-```bash
 git clone https://github.com/your-username/postify.git
 
 2️⃣ Move into the project folder
