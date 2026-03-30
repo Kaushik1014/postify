@@ -64,7 +64,7 @@ cd postify
 npm install
 
 4️⃣ Start the server
-npm start
+nodemon index.js
 
 5️⃣ Open in browser
 http://localhost:3000/posts
