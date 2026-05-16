@@ -6,13 +6,13 @@ This project is ideal for learning **Node.js**, **Express**, REST APIs, templati
 
 ---
 
-🌐 Live Demo
+##🌐 Live Demo
 
 👉 https://postify-9q78.onrender.com/posts
 
 ---
 
-✨ Features
+##✨ Features
 
 - 📄 View all posts
 - ➕ Create a new post
@@ -23,7 +23,7 @@ This project is ideal for learning **Node.js**, **Express**, REST APIs, templati
 
 ---
 
-🛠️ Tech Stack
+##🛠️ Tech Stack
 
 - **Frontend:** HTML, CSS, EJS
 - **Backend:** Node.js, Express.js
@@ -32,7 +32,7 @@ This project is ideal for learning **Node.js**, **Express**, REST APIs, templati
 - **Version Control:** Git & GitHub
 ---
 
-📁 Project Structure
+##📁 Project Structure
 
 postify/
 
@@ -52,7 +52,7 @@ postify/
 
 ---
 
-🚀 Getting Started (Run Locally)
+##🚀 Getting Started (Run Locally)
 
 1️⃣ Clone the repository
 git clone https://github.com/Kaushik1014/postify.git
@@ -69,7 +69,7 @@ nodemon index.js
 5️⃣ Open in browser
 http://localhost:3000/posts
 
-🔗 API Endpoints
+##🔗 API Endpoints
 
 | Method | Endpoint   | Description       |
 | ------ | ---------- | ----------------- |
@@ -79,7 +79,7 @@ http://localhost:3000/posts
 | PUT    | /posts/:id | Update a post     |
 | DELETE | /posts/:id | Delete a post     |
 
-📌 Usage
+##📌 Usage
 
 1)Open the application
 
@@ -102,7 +102,7 @@ If you'd like to improve this project:
 
 Your support and contributions help make this project better 🚀
 
-👨‍💻 Author
+##👨‍💻 Author
 
 Kaushik Gautam
 
